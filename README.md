@@ -1,6 +1,6 @@
 # Numerical Modeling of Thermal Flows in Entrance Channels for Polymer Extrusion: A Parametric Study
 
-Attached pdf file is the published journal paper. This work presents the method to find optimal dimensions of extrusion die parts (inlet and pre-land parts). 
+Attached pdf file is the published journal paper. This work presents the methodology to find the optimal dimensions of extrusion die parts (inlet and pre-land parts). 
 Numerical computations were done by using the finite difference and finite element methods. 
 These methods were implemented in Python to compute the temperature distrubutions of some polypropylene melt flow in parallel-plate and circular tube. 
 
